@@ -1,0 +1,2 @@
+วิธีการ export glb
+-ติ้ก Data/Mesh/Apply Modifiers, Include/Visible Objects  
